@@ -145,6 +145,9 @@ ol{
     img {
         height: 20rem;
     }
+    #title{
+        height: auto;
+    }
 }
 
 @media (max-width: 768px) {
@@ -178,6 +181,9 @@ ol{
         flex-direction: column;
         align-items: center;
     }
+    #title{
+        height: auto;
+    }
 }
 
 @media (max-width: 480px) {
@@ -200,5 +206,8 @@ ol{
     #agende-btn {
         width: 5rem;
         font-size: 0.9rem;
+    }
+    #title{
+        height: auto;
     }
 }
