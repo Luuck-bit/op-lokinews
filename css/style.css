@@ -50,6 +50,7 @@ h1, h2 {
     color: #ffffff;
     font-family: font;
     font-size: 3rem;
+    margin-bottom: 3rem;
 }
 
 aside {
@@ -98,6 +99,8 @@ p {
     border-radius: 50%;
     box-shadow: 0 0rem 6rem -.10rem #c4ae2d;
     margin-top: 4rem;
+    margin-left: 1.5rem;
+    margin-left: 1.5rem;
 }
 
 #locate-section {
@@ -130,6 +133,7 @@ ol{
     font-family: font;
     font-size: 2rem;
     color: rgb(141, 141, 141);
+    text-align: justify;
 }
 
 /* Media Queries */
